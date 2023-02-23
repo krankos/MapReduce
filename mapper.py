@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 # create simple line by line mapper
 
 import sys
